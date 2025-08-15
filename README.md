@@ -21,7 +21,8 @@ It allows users to input their date of birth and instantly calculates their exac
 
 ---
 📸 Screenshots
-![Age-Simulator-Screenshot](screenshot.png)
+![Age-Simulator-Screenshot](<img width="1920" height="1020" alt="screenshot" src="https://github.com/user-attachments/assets/7934450a-9d61-4340-9c33-f3731619b099" />
+)
 
 ## 📂 File Structure
 Age-Calculator/
